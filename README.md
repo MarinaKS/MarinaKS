@@ -1,5 +1,5 @@
 ## ✨ Marina Kotko ✨
-Я начинающий java-разработчик :)
+###Java-developer
 
 - [x] Java
 - [x] Spring Boot
