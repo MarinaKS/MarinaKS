@@ -1,7 +1,6 @@
 ## ✨ Marina Kotko ✨
 Я начинающий java-разработчик :)
 
-Мой стек:
 - [x] Java
 - [x] Spring Boot
 - [x] PostgreSQL
