@@ -1,6 +1,11 @@
-### Hi there 👋
-- [x] ed
-- [ ] es
+## ✨ Marina Kotko ✨
+Я начинающий java-разработчик :)
+Мой стек:
+- [x] Java
+- [x] Spring Boot
+- [x] PostgreSQL
+- [x] Hibernate
+- [x] Docker
 <!--
 **MarinaKS/MarinaKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
