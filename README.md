@@ -6,6 +6,8 @@
 - [x] PostgreSQL
 - [x] Hibernate
 - [x] Docker
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=MarinaKS&show_icons=true)
 <!--
 **MarinaKS/MarinaKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
